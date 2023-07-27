@@ -10,7 +10,7 @@
     >
     >[3 days video 6-11 (~2h)](https://www.youtube.com/watch?v=hu-q2zYwEYs&list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G)
     >
-    >[ ❗ short video on liking files](https://www.youtube.com/watch?v=VViTCJDFYIc)
+    >[ ❗ short video on linking files](https://www.youtube.com/watch?v=VViTCJDFYIc)
  1. week 2 JavaScript:
     >[1 day single video of JS(JavaScript basics ~40min) ](https://www.youtube.com/watch?v=W6NZfCO5SIk)
     >[1 day single video of JS(JavaScript more in-depth) ](https://www.youtube.com/watch?v=W6NZfCO5SIk)
