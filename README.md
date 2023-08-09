@@ -24,12 +24,14 @@
     >       
     >[single video of JSON (JavaScript Template Literals: JSON to HTML) 40min ](https://www.youtube.com/watch?v=DG4obitDvUA)
     >
-    >[documetation for json](https://www.w3schools.com/js/js_json_intro.asp)
-    ...(will be updated)
+    >[documentation for json](https://www.w3schools.com/js/js_json_intro.asp)
     >
     >[single video of AJAX (JSON and AJAX Tutorial: With Real Examples) 40min](https://www.youtube.com/watch?v=rJesac0_Ftw)
     >
-    >[documetation for ajax](https://www.w3schools.com/js/js_ajax_intro.asp)
+    >[documentation for ajax](https://www.w3schools.com/js/js_ajax_intro.asp)
+    >
+    >...(will be updated)
+    > 
 <!-- 1. week 3 HTML and CSS:
     >[first 2 days](https://www.youtube.com/watch?v=hu-q2zYwEYs&list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G)
  1. week 4 HTML and CSS:
