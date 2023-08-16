@@ -54,8 +54,8 @@
     >[first 2 days](https://www.youtube.com/watch?v=hu-q2zYwEYs&list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G)
 1. week 4 HTML and CSS:
     >[first 2 days](https://www.youtube.com/watch?v=hu-q2zYwEYs&list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G) -->
-    >
-    >...(will be updated)
+>
+>...(will be updated)
 
 
 ### additional info for topics
