@@ -29,7 +29,7 @@
     >
     >[ ✒️ JavaScript Tutorials for Beginners ( 4 hour, 53 minutes, 31 seconds )](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET)
     >
-    1. week 2 refine and practice:
+1. week 2 refine and practice:
     >
     day 1:
     >
