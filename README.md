@@ -1,6 +1,5 @@
 
 ## 12 week WEB DEV course (objective)
-#### ! theory to prep for lessons !
 
 ### requirement: when starting every video - put the link to the chat. Even if the video is 1 minute long. -put it to the chat privately to me, via slack. the links in slack is a strict requirement - it's a proof of attendance.
 
@@ -10,7 +9,7 @@
 
     
  1. week 1 HTML, CSS and JS:
-    > day 1: 
+    day 1: 
     >
     >[👁️ HTML Tutorial for Beginners 30 video ( 1 hour, 34 minutes, 40 seconds )](https://www.youtube.com/playlist?list=PLr6-GrHUlVf_ZNmuQSXdS197Oyr1L9sPB)
     >
@@ -18,24 +17,25 @@
     >
     >[ ✒️ HTML5 Tutorial for Beginners 12 video ( 39 minutes, 25 seconds )](https://www.youtube.com/playlist?list=PLr6-GrHUlVf8JluGhfyaOSN8bugLtDXhK)
     >
-    > day 2 - 3:
+    day 2 - 3:
     >
     >[ ✒️ CSS tutorial for beginners ( 9 hour, 13 minutes, 11 seconds )](https://www.youtube.com/playlist?list=PLEgXw6DCBmW09poD0u8rdPJ5kPwUYBtJI)
     >
-    > day 4
+    day 4
+    > 
     >[ 👁️ single video of JS basics ( 4 hour, 37 minutes, 6 seconds ) ](https://youtube.com/playlist?list=PLTjRvDozrdlxEIuOBZkMAK5uiqp8rHUax)
     >
-    > day 5
+    day 5
     >
     >[ ✒️ JavaScript Tutorials for Beginners ( 4 hour, 53 minutes, 31 seconds )](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET)
     >
     1. week 2 refine and practice:
     >
-    > day 1:
+    day 1:
     >
     > ✒️ if still needed spend some more time on js
     >
-    > day 4 - 5:
+    day 4 - 5:
     >
     > ✒️ combining all the tools and using it in practice creating your own little webpage
 <!--
@@ -55,7 +55,7 @@
 1. week 4 HTML and CSS:
     >[first 2 days](https://www.youtube.com/watch?v=hu-q2zYwEYs&list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G) -->
 >
->...(will be updated)
+    ...(will be updated)
 
 
 ### additional info for topics
