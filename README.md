@@ -9,6 +9,7 @@
 
     
  1. week 1 HTML, CSS and JS:
+    
     day 1: 
     >
     >[👁️ HTML Tutorial for Beginners 30 video ( 1 hour, 34 minutes, 40 seconds )](https://www.youtube.com/playlist?list=PLr6-GrHUlVf_ZNmuQSXdS197Oyr1L9sPB)
