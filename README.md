@@ -1,3 +1,6 @@
+[🎞️ online lessions](https://meet.google.com/xyj-pxai-frc)
+>https://meet.google.com/xyj-pxai-frc
+
 
 ## 12 week WEB DEV course (objective)
 
