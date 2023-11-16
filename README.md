@@ -19,13 +19,11 @@
     >
     >[ 👁️ CSS tutorial for beginners 60 video ( 4 hour, 0 minutes, 45 seconds )](https://www.youtube.com/playlist?list=PLEgXw6DCBmW1DFOfBlN3eB9c6KJViFpiK)
     >
-    >[ ✒️ HTML5 Tutorial for Beginners 12 video ( 39 minutes, 25 seconds )](https://www.youtube.com/playlist?list=PLr6-GrHUlVf8JluGhfyaOSN8bugLtDXhK)
-    >
     ❗❗❗ After you're done with this playlist, I would strongly recommend downloading a code editor of your choice. I recommend Visual Studio Code. ❗❗❗
 
     day 2 - 3:
     >
-    >[ ✒️ CSS tutorial for beginners ( 9 hour, 13 minutes, 11 seconds )](https://www.youtube.com/playlist?list=PLEgXw6DCBmW09poD0u8rdPJ5kPwUYBtJI)
+    >[ ✒️ ❗❗❗ CSS tutorial for beginners ( 9 hour, 13 minutes, 11 seconds )](https://www.youtube.com/playlist?list=PLEgXw6DCBmW09poD0u8rdPJ5kPwUYBtJI)
     >
     day 4
     > 
