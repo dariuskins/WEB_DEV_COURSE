@@ -45,13 +45,13 @@
 
 1. week 3 starting php:
     >
-    > [What is a RESTful API? (about request types: get, post, put, delete ...) ](https://youtu.be/0oXYLzuucwE?si=DOvmm-q_9ZG3HM5A)
+    > [ 👁️ What is a RESTful API? (about request types: get, post, put, delete ...) ](https://youtu.be/0oXYLzuucwE?si=DOvmm-q_9ZG3HM5A)
     > 
-    > [RESTful APIs in 100 Seconds // Build an API from Scratch with Node.js Express ( 10 min )](https://www.youtube.com/watch?v=-MTSQjw5DrM)
+    > [ 👁️ RESTful APIs in 100 Seconds // Build an API from Scratch with Node.js Express ( 10 min )](https://www.youtube.com/watch?v=-MTSQjw5DrM)
     >
-    > [HTTP Status Codes Explained In 5 Minutes ](https://www.youtube.com/watch?v=qmpUfWN7hh4)
+    > [ 👁️ TTP Status Codes Explained In 5 Minutes ](https://www.youtube.com/watch?v=qmpUfWN7hh4)
     >
-    > [Node.js Crash Course Tutorial ( 4 hours, 44 minutes, 27 seconds )](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU)
+    > [ ✒️ Node.js Crash Course Tutorial ( 4 hours, 44 minutes, 27 seconds )](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU)
     >
 ...(will be updated)
 
